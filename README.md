@@ -16,3 +16,4 @@ Below are the imbalanced classification reports for each machine learning model.
 - Easy Ensemble Classifiers
 ![Easy Ensemble Classifiers Results](https://github.com/MeganSpeaks/Credit_Risk_Analysis/blob/main/easy_ensemble.jpg)
 ## Summary:
+All six machine learning models result in good precision scores, but the two ensemble methods have significantly better recall scores than the first four models.  I would recommend the Easy Ensemble Classification model for your company as it has the best recall score.
